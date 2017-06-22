@@ -61,7 +61,7 @@ petNameandBreed("Rofus", "Weiner Dog");
 
 function Salestax(price, amount,tax ){
 	var tax=amount*price*.07;
-	console.log("The amount of "+amount+" candy bars will be "+amount*price+tax+"$");
+	console.log("The amount of "+amount+" candy bar(s) will be "+amount*price+tax+"$");
 }
 
 Salestax(100,1);
