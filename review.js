@@ -31,6 +31,5 @@ console.log("               ")
 
 var candy = ["Hersheys", "Three Muskateers", "Snickers", "Milky Way"]
 
-for (var i=0; i<candy.length; i++){
-	console.log(candy[i])
+candy. 
 }
