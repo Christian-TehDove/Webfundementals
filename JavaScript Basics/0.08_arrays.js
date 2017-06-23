@@ -13,5 +13,4 @@ restaurants.sort();
 
 for (var i=0; i<restaurants.length; i++){
 	console.log(restaurants[i])
-	
 }

@@ -1,5 +1,5 @@
 body {
-	background:#b592ca;
+	background:#ffe1fe;
 }
 
 .snout {
@@ -52,7 +52,7 @@ body {
 	width:100px;
 	height: 150px;
 	border: solid 0px black;
-	background-color:  #d08ed1;
+	background-color:#e878e4;
 	position: absolute;
 	z-index: 1;
 	border-radius: 60px;
@@ -67,17 +67,17 @@ body {
 	position: absolute;
 	z-index: 2;
 	border-radius: 60px;
-	margin:-90px 0px 0px 500px;
+	margin:-90px 0px 0px 510px;
 	transform: rotate(-60deg);
 }
 .back_leg_far {
 	width:100px;
 	height: 150px;
 	border: solid 0px black;
-	background-color:  #d08ed1;
+	background-color:#e878e4;
 	position: absolute;
 	z-index: 1;
 	border-radius:60px;
-	margin:-120px 0px 0px 500px;
+	margin:-120px 0px 0px 520px;
 	transform: rotate(-90deg);
 }
